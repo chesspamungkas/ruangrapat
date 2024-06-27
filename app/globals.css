@@ -43,7 +43,7 @@
 }
 
 .glassmorphism {
-  background: rgba(255, 255, 255, 0.25);
+  background: #EDFEF0;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 }
@@ -54,6 +54,9 @@
 }
 
 /* ==== clerk class override ===== */
+.cl-internal-2cr4gg {
+  background-color: #1d1f1f;
+}
 
 .cl-userButtonPopoverActionButtonIcon {
   color: white;
@@ -68,7 +71,16 @@
 }
 
 .cl-socialButtonsIconButton {
-  border: 3px solid #565761;
+  border: 3px solid #03DE5C;
+  background-color: #fff;
+}
+
+.cl-socialButtonsIconButton:hover {
+  background-color: #fff;
+}
+
+.cl-internal-vsyo1i, .cl-internal-1f20wsg {
+  background-color: #fff;
 }
 
 .cl-internal-wkkub3 {
@@ -78,6 +90,37 @@
   color: white;
 }
 
+.cl-internal-vsyo1i, .cl-internal-1f20wsg {
+  color: black;
+}
+
+.cl-internal-b6u84v[data-variant="solid"][data-color="primary"] {
+  box-shadow: none!important;
+}
+
+.cl-internal-b6u84v {
+  background-color: #00b652;
+}
+
+.cl-internal-1nn89fl {
+  color: white;
+}
+
+.cl-internal-tftniu {
+  display: none;
+}
+
+.cl-userButtonPopoverActionButton:hover {
+  color: rgb(11, 122, 249);;
+}
+
+.cl-internal-zpbffa {
+  color: #489d62;
+}
+
+.cl-internal-180wb59, .cl-internal-lqfubk {
+  visibility: hidden;
+}
 /* =============================== */
 
 @layer utilities {
