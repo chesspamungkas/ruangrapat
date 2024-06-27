@@ -1,9 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
-      <img src="https://raw.githubusercontent.com/chesspamungkas/ruangrapat/main/public/images/ruangrapat-banner.png?token=GHSAT0AAAAAACSK57GWPVNYJBHCDTDYBGXUZT5HP3A" alt="Ruangrapat Banner">
-    </a>
-  
+      ![ruangrapat-banner](https://github.com/chesspamungkas/ruangrapat/assets/24834825/d174f669-310e-4744-87b1-df68628d6c47)
   <br />
 
   <div>
