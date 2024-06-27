@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
-      <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
+      <img src="https://raw.githubusercontent.com/chesspamungkas/ruangrapat/main/public/images/ruangrapat-banner.png?token=GHSAT0AAAAAACSK57GWPVNYJBHCDTDYBGXUZT5HP3A" alt="Ruangrapat Banner">
     </a>
   
   <br />
@@ -210,13 +210,40 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 .cl-internal-wkkub3 {
   color: white;
 }
-
 .cl-userButtonPopoverActionButton {
   color: white;
 }
 
 .cl-internal-vsyo1i, .cl-internal-1f20wsg {
   color: black;
+}
+
+.cl-internal-b6u84v[data-variant="solid"][data-color="primary"] {
+  box-shadow: none!important;
+}
+
+.cl-internal-b6u84v {
+  background-color: #00b652;
+}
+
+.cl-internal-1nn89fl {
+  color: white;
+}
+
+.cl-internal-tftniu {
+  display: none;
+}
+
+.cl-userButtonPopoverActionButton:hover {
+  color: rgb(11, 122, 249);;
+}
+
+.cl-internal-zpbffa {
+  color: #489d62;
+}
+
+.cl-internal-180wb59, .cl-internal-lqfubk {
+  visibility: hidden;
 }
 /* =============================== */
 
@@ -280,13 +307,14 @@ const config = {
     extend: {
       colors: {
         dark: {
-          1: '#1C1F2E',
-          2: '#161925',
+          1: '#1D1F1F',
+          2: '#2E3C44',
           3: '#252A41',
           4: '#1E2757',
         },
         blue: {
           1: '#0E78F9',
+          2: '#00689A',
         },
         sky: {
           1: '#C9DDFF',
