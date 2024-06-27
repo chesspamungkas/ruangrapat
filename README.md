@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      ![ruangrapat-banner](https://github.com/chesspamungkas/ruangrapat/assets/24834825/d174f669-310e-4744-87b1-df68628d6c47)
+      <img src="https://github.com/chesspamungkas/ruangrapat/assets/24834825/d174f669-310e-4744-87b1-df68628d6c47"> 
   <br />
 
   <div>
@@ -76,7 +76,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/zoom-clone.git
+git clone https://github.com/chesspamungkas/ruangrapat
 cd zoom-clone
 ```
 
